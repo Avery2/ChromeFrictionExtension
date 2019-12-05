@@ -1,0 +1,6 @@
+{
+  "name": "Friction",
+  "version": "1.0",
+  "description": "Causes delay to access certain websites you shouldn't be accessing.",
+  "manifest_version": 2
+}
